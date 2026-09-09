@@ -55,4 +55,20 @@ Passionate Frontend Developer focused on creating vibrant, responsive, and user-
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/UzairSuriya">UzairSuriya</a></i></p>
+
+### 🛠️ Featured Projects
+
+Here are a few real-time web utilities and interactive applications I've built using vanilla JavaScript, HTML5, and CSS3:
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **ConvertX** | Fast, responsive currency converter web app fetching real-time global exchange rates and dynamic country flags via free REST APIs. | `JavaScript` `REST API` `CSS` | [Live Demo]([https://uzairsuriya.github.io/convertx](https://convertx-app.netlify.app/)) · [Repository]([https://github.com/UzairSuriya/convertx](https://github.com/UzairSuriya/convertx)) |
+| **TaskX** | Modern, responsive To-Do List web application built with vanilla JavaScript, CSS custom variables, and Font Awesome icons. | `JavaScript` `CSS` `HTML` | [Live Demo]([https://uzairsuriya.github.io/taskx](https://taskx-app.netlify.app/)) · [Repository]([https://github.com/UzairSuriya/taskx](https://github.com/UzairSuriya/taskx)) |
+| **MeasureMate** | Real-time unit conversion tool designed for seamless metric and imperial unit conversions. | `JavaScript` `HTML` `CSS` | [Live Demo]([https://uzairsuriya.github.io/measure-mate](https://measuremate-app.netlify.app/)) · [Repository]([https://github.com/UzairSuriya/measure-mate](https://github.com/UzairSuriya/measure-mate)) |
+| **PassGuard** | Responsive password generator app that generates strong, randomized passwords with customizable parameters. | `JavaScript` `CSS` `HTML` | [Live Demo]([https://uzairsuriya.github.io/passguard-password-generator](https://passguard-password-generator.netlify.app/)) · [Repository](https://github.com/UzairSuriya/passguard-password-generator) |
+| **Score Tracker** | Interactive basketball scoreboard app featuring real-time DOM updates and persistent score tracking via `localStorage`. | `JavaScript` `HTML` `CSS` | [Live Demo]([https://uzairsuriya.github.io/interactive-score-tracker](https://interactive-score-tracker.netlify.app/)) · [Repository]([https://github.com/UzairSuriya/interactive-score-tracker](https://github.com/UzairSuriya/interactive-score-tracker)) |
+| **CodeAlpha Tasks** | Central showcase repository containing frontend development projects and source code for the CodeAlpha Virtual Internship. | `JavaScript` `HTML` `CSS` | [Repository]([https://github.com/UzairSuriya/CodeAlpha_Tasks](https://github.com/UzairSuriya/CodeAlpha_Tasks)) |
+
+---
+
+<p align="center"><i>⭐ From <a href="https://github.com/UzairSuriya">UzairSuriya</a></i></p>
